@@ -6,4 +6,4 @@ Boundary conditions assume slip conditions at the walls of the inlet and constan
 The geometry is provided by the ".dat" files for coarse and fine meshes and "CoarseMesh.jpg" shows the geometry of the inlet.
 Example contour plots are provided demonstrating converged solutions for various flow variables.
 
-!(https://github.com/blankenshipj15/euler-solver/blob/main/VelocityPressureTemperatureFine.jpg)
+![](https://github.com/blankenshipj15/euler-solver/blob/main/VelocityPressureTemperatureFine.jpg)
