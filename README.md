@@ -5,3 +5,5 @@ The solver achieves a steady state solution through local time-stepping techniqu
 Boundary conditions assume slip conditions at the walls of the inlet and constant inlet conditions.
 The geometry is provided by the ".dat" files for coarse and fine meshes and "CoarseMesh.jpg" shows the geometry of the inlet.
 Example contour plots are provided demonstrating converged solutions for various flow variables.
+
+!(https://github.com/blankenshipj15/euler-solver/blob/main/VelocityPressureTemperatureFine.jpg)
